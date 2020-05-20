@@ -44,7 +44,7 @@ void print_environment() {
 void set_default_environment() {
 	E.goal = 1000000;
 	E.bounds = 3;
-	E.threads = 1;
+	E.threads = 12;
 	E.progress = 30;
 }
 
