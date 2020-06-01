@@ -1,6 +1,10 @@
-Brute Force Solver for Matt Parker's Math Puzzle 6
+This is a C program that brute forces the solution to Matt Parker's Math Puzzle 6 
 
-This is a C program that brute forces the solution to Matt Parker's Math Puzzle 6: https://www.youtube.com/watch?v=ILrqPpLpwpE&t
+Puzzle: https://www.youtube.com/watch?v=ILrqPpLpwpE&t
+
+Solution: https://www.youtube.com/watch?v=qGlDSOu4X8Y&t
+
+Note that this program gets the solution that is worth 100 bonus points but does so very inefficiently, and does not use the "correct" method. 
 
 To run, compile it with the Makefile and run balance3, because it is by far the most optimized and fastest.
 balance3 is also the only version that supports multi threading.
