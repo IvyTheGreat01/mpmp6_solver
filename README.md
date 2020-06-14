@@ -1,8 +1,8 @@
 This is a C program that brute forces the solution to Matt Parker's Math Puzzle 6 
 
-Puzzle: https://www.youtube.com/watch?v=ILrqPpLpwpE&t
+Puzzle: https://youtu.be/ILrqPpLpwpE
 
-Solution: https://www.youtube.com/watch?v=qGlDSOu4X8Y&t
+Solution: https://youtu.be/qGlDSOu4X8Y
 
 Note that this program gets the solution that is worth 100 bonus points but does so very inefficiently, and does not use the "correct" method. 
 
