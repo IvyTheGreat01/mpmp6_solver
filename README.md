@@ -4,7 +4,7 @@ Puzzle: https://youtu.be/ILrqPpLpwpE
 
 Solution: https://youtu.be/qGlDSOu4X8Y
 
-Note that this program gets the solution that is worth 100 bonus points but does so very inefficiently, and does not use the "correct" method. 
+Note that this program gets the solution that is worth 100 bonus points but does so very inefficiently, and does not use the "correct" Fibonnaci sequence method. 
 
 To run, compile it with the Makefile and run balance3, because it is by far the most optimized and fastest.
 balance3 is also the only version that supports multi threading.
